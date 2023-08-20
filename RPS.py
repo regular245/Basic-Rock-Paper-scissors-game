@@ -12,7 +12,7 @@ while running:
 
     comp=0
     p=0
-    #f"{name}p =0"
+   
 
 
     while player not in options:
